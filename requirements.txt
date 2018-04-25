@@ -1,0 +1,4 @@
+grequests
+beautifulsoup4
+lxml
+bleach
